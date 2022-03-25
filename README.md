@@ -15,5 +15,5 @@ java -jar app.jar
 
 ## Debug
 
-Debuggign is a bumme ... and a lot of fun as well. 
+Debugging is a bummer ... and a lot of fun as well. 
 
