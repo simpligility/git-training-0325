@@ -4,12 +4,14 @@ A sample repository to demo working with GitHub and git repositories.
 
 ## Build
 
-asdfasfda
+We build with Maven. ...
 
 
 ## Run application
 
-adfasdfs
+```
+java -jar app.jar
+```
 
 ## Debug
 
