@@ -15,4 +15,5 @@ java -jar app.jar
 
 ## Debug
 
-sdfsdf
+Debugging is a bummer ... and a lot of fun as well. 
+
